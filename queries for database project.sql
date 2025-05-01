@@ -40,7 +40,4 @@ WHERE g.genre = (
         WHERE anime_name = 'Naruto'
     )
 );
-/*6 .*/
-/**/
-/**/
-/**/
+
